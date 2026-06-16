@@ -1,4 +1,5 @@
-## Hi there 👋
+<img width="200" height="150" alt="9a1280d6c6c7f90dec10412ba5817e51" src="https://github.com/user-attachments/assets/ee784ac0-f074-49d2-b2d8-f10c59b80a07" />
+
 
 <!--
 **plminueza/plminueza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
